@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# General
+.idea/
+.DS_Store
+.vscode/
+*.iml
+
+# Docker
+docker-compose.override.yml
+.env.docker
